@@ -1,0 +1,1232 @@
+('G:\\Meu Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\',
+ None,
+ [],
+ 'DATA',
+ [('Calculator.kv',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\Calculator.kv',
+   'DATA'),
+  ('Calculator.py',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\Calculator.py',
+   'DATA'),
+  ('Calculator.spec',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\Calculator.spec',
+   'DATA'),
+  ('build\\Calculator\\base_library.zip',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\base_library.zip',
+   'DATA'),
+  ('build\\Calculator\\Calculator.exe.manifest',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\Calculator.exe.manifest',
+   'DATA'),
+  ('build\\Calculator\\Tree-00.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\Tree-00.toc',
+   'DATA'),
+  ('build\\Calculator\\Tree-01.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\Tree-01.toc',
+   'DATA'),
+  ('build\\Calculator\\Tree-02.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\Tree-02.toc',
+   'DATA'),
+  ('build\\Calculator\\warn-Calculator.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\warn-Calculator.txt',
+   'DATA'),
+  ('build\\Calculator\\xref-Calculator.html',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\xref-Calculator.html',
+   'DATA'),
+  ('build\\Calculator\\Analysis-00.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\Analysis-00.toc',
+   'DATA'),
+  ('build\\Calculator\\PYZ-00.pyz',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\PYZ-00.pyz',
+   'DATA'),
+  ('build\\Calculator\\PYZ-00.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\PYZ-00.toc',
+   'DATA'),
+  ('build\\Calculator\\Calculator.pkg',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\Calculator.pkg',
+   'DATA'),
+  ('build\\Calculator\\PKG-00.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\PKG-00.toc',
+   'DATA'),
+  ('build\\Calculator\\Calculator.exe',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\Calculator.exe',
+   'DATA'),
+  ('build\\Calculator\\EXE-00.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\EXE-00.toc',
+   'DATA'),
+  ('build\\Calculator\\COLLECT-00.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\COLLECT-00.toc',
+   'DATA'),
+  ('build\\Calculator\\Tree-03.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\Tree-03.toc',
+   'DATA'),
+  ('build\\Calculator\\Tree-04.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\Tree-04.toc',
+   'DATA'),
+  ('build\\Calculator\\Tree-05.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\build\\Calculator\\Tree-05.toc',
+   'DATA'),
+  ('dist\\Calculator\\Calculator.exe',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\Calculator.exe',
+   'DATA'),
+  ('dist\\Calculator\\Calculator.kv',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\Calculator.kv',
+   'DATA'),
+  ('dist\\Calculator\\Calculator.py',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\Calculator.py',
+   'DATA'),
+  ('dist\\Calculator\\Calculator.spec',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\Calculator.spec',
+   'DATA'),
+  ('dist\\Calculator\\python310.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\python310.dll',
+   'DATA'),
+  ('dist\\Calculator\\VCRUNTIME140.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\VCRUNTIME140.dll',
+   'DATA'),
+  ('dist\\Calculator\\pythoncom310.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\pythoncom310.dll',
+   'DATA'),
+  ('dist\\Calculator\\pywintypes310.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\pywintypes310.dll',
+   'DATA'),
+  ('dist\\Calculator\\win32trace.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\win32trace.pyd',
+   'DATA'),
+  ('dist\\Calculator\\win32ui.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\win32ui.pyd',
+   'DATA'),
+  ('dist\\Calculator\\unicodedata.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\unicodedata.pyd',
+   'DATA'),
+  ('dist\\Calculator\\_decimal.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\_decimal.pyd',
+   'DATA'),
+  ('dist\\Calculator\\select.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\select.pyd',
+   'DATA'),
+  ('dist\\Calculator\\_socket.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\_socket.pyd',
+   'DATA'),
+  ('dist\\Calculator\\_overlapped.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\_overlapped.pyd',
+   'DATA'),
+  ('dist\\Calculator\\_ssl.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\_ssl.pyd',
+   'DATA'),
+  ('dist\\Calculator\\_asyncio.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\_asyncio.pyd',
+   'DATA'),
+  ('dist\\Calculator\\_queue.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\_queue.pyd',
+   'DATA'),
+  ('dist\\Calculator\\_ctypes.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\_ctypes.pyd',
+   'DATA'),
+  ('dist\\Calculator\\_multiprocessing.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\_multiprocessing.pyd',
+   'DATA'),
+  ('dist\\Calculator\\pyexpat.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\pyexpat.pyd',
+   'DATA'),
+  ('dist\\Calculator\\_hashlib.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\_hashlib.pyd',
+   'DATA'),
+  ('dist\\Calculator\\_lzma.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\_lzma.pyd',
+   'DATA'),
+  ('dist\\Calculator\\_bz2.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\_bz2.pyd',
+   'DATA'),
+  ('dist\\Calculator\\_win32sysloader.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\_win32sysloader.pyd',
+   'DATA'),
+  ('dist\\Calculator\\win32api.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\win32api.pyd',
+   'DATA'),
+  ('dist\\Calculator\\_uuid.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\_uuid.pyd',
+   'DATA'),
+  ('dist\\Calculator\\win32file.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\win32file.pyd',
+   'DATA'),
+  ('dist\\Calculator\\_elementtree.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\_elementtree.pyd',
+   'DATA'),
+  ('dist\\Calculator\\win32gui.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\win32gui.pyd',
+   'DATA'),
+  ('dist\\Calculator\\mfc140u.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\mfc140u.dll',
+   'DATA'),
+  ('dist\\Calculator\\libssl-1_1.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\libssl-1_1.dll',
+   'DATA'),
+  ('dist\\Calculator\\libcrypto-1_1.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\libcrypto-1_1.dll',
+   'DATA'),
+  ('dist\\Calculator\\libffi-7.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\libffi-7.dll',
+   'DATA'),
+  ('dist\\Calculator\\SDL2.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\SDL2.dll',
+   'DATA'),
+  ('dist\\Calculator\\SDL2_image.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\SDL2_image.dll',
+   'DATA'),
+  ('dist\\Calculator\\VCRUNTIME140_1.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\VCRUNTIME140_1.dll',
+   'DATA'),
+  ('dist\\Calculator\\MSVCP140.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\MSVCP140.dll',
+   'DATA'),
+  ('dist\\Calculator\\glib-2.0-0.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\glib-2.0-0.dll',
+   'DATA'),
+  ('dist\\Calculator\\gobject-2.0-0.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\gobject-2.0-0.dll',
+   'DATA'),
+  ('dist\\Calculator\\gstreamer-1.0-0.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\gstreamer-1.0-0.dll',
+   'DATA'),
+  ('dist\\Calculator\\SDL2_ttf.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\SDL2_ttf.dll',
+   'DATA'),
+  ('dist\\Calculator\\glew32.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\glew32.dll',
+   'DATA'),
+  ('dist\\Calculator\\SDL2_mixer.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\SDL2_mixer.dll',
+   'DATA'),
+  ('dist\\Calculator\\intl-8.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\intl-8.dll',
+   'DATA'),
+  ('dist\\Calculator\\ffi-7.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\ffi-7.dll',
+   'DATA'),
+  ('dist\\Calculator\\gmodule-2.0-0.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\gmodule-2.0-0.dll',
+   'DATA'),
+  ('dist\\Calculator\\base_library.zip',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\base_library.zip',
+   'DATA'),
+  ('dist\\Calculator\\LICENSE.FLAC.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\LICENSE.FLAC.txt',
+   'DATA'),
+  ('dist\\Calculator\\LICENSE.freetype.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\LICENSE.freetype.txt',
+   'DATA'),
+  ('dist\\Calculator\\LICENSE.harfbuzz.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\LICENSE.harfbuzz.txt',
+   'DATA'),
+  ('dist\\Calculator\\LICENSE.jpeg.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\LICENSE.jpeg.txt',
+   'DATA'),
+  ('dist\\Calculator\\LICENSE.modplug.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\LICENSE.modplug.txt',
+   'DATA'),
+  ('dist\\Calculator\\LICENSE.mpg123.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\LICENSE.mpg123.txt',
+   'DATA'),
+  ('dist\\Calculator\\LICENSE.ogg-vorbis.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\LICENSE.ogg-vorbis.txt',
+   'DATA'),
+  ('dist\\Calculator\\LICENSE.opus.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\LICENSE.opus.txt',
+   'DATA'),
+  ('dist\\Calculator\\LICENSE.opusfile.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\LICENSE.opusfile.txt',
+   'DATA'),
+  ('dist\\Calculator\\LICENSE.png.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\LICENSE.png.txt',
+   'DATA'),
+  ('dist\\Calculator\\LICENSE.tiff.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\LICENSE.tiff.txt',
+   'DATA'),
+  ('dist\\Calculator\\LICENSE.webp.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\LICENSE.webp.txt',
+   'DATA'),
+  ('dist\\Calculator\\LICENSE.zlib.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\LICENSE.zlib.txt',
+   'DATA'),
+  ('dist\\Calculator\\libFLAC-8.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\libFLAC-8.dll',
+   'DATA'),
+  ('dist\\Calculator\\libjpeg-9.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\libjpeg-9.dll',
+   'DATA'),
+  ('dist\\Calculator\\libmodplug-1.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\libmodplug-1.dll',
+   'DATA'),
+  ('dist\\Calculator\\libmpg123-0.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\libmpg123-0.dll',
+   'DATA'),
+  ('dist\\Calculator\\libogg-0.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\libogg-0.dll',
+   'DATA'),
+  ('dist\\Calculator\\libopus-0.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\libopus-0.dll',
+   'DATA'),
+  ('dist\\Calculator\\libopusfile-0.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\libopusfile-0.dll',
+   'DATA'),
+  ('dist\\Calculator\\libpng16-16.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\libpng16-16.dll',
+   'DATA'),
+  ('dist\\Calculator\\libtiff-5.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\libtiff-5.dll',
+   'DATA'),
+  ('dist\\Calculator\\libvorbis-0.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\libvorbis-0.dll',
+   'DATA'),
+  ('dist\\Calculator\\libvorbisfile-3.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\libvorbisfile-3.dll',
+   'DATA'),
+  ('dist\\Calculator\\libwebp-7.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\libwebp-7.dll',
+   'DATA'),
+  ('dist\\Calculator\\zlib1.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\zlib1.dll',
+   'DATA'),
+  ('dist\\Calculator\\pyinstaller-5.0.1.dist-info\\INSTALLER',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\pyinstaller-5.0.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('dist\\Calculator\\pyinstaller-5.0.1.dist-info\\RECORD',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\pyinstaller-5.0.1.dist-info\\RECORD',
+   'DATA'),
+  ('dist\\Calculator\\pyinstaller-5.0.1.dist-info\\REQUESTED',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\pyinstaller-5.0.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('dist\\Calculator\\pyinstaller-5.0.1.dist-info\\WHEEL',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\pyinstaller-5.0.1.dist-info\\WHEEL',
+   'DATA'),
+  ('dist\\Calculator\\pyinstaller-5.0.1.dist-info\\top_level.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\pyinstaller-5.0.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('dist\\Calculator\\pyinstaller-5.0.1.dist-info\\entry_points.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\pyinstaller-5.0.1.dist-info\\entry_points.txt',
+   'DATA'),
+  ('dist\\Calculator\\pyinstaller-5.0.1.dist-info\\METADATA',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\pyinstaller-5.0.1.dist-info\\METADATA',
+   'DATA'),
+  ('dist\\Calculator\\pyinstaller-5.0.1.dist-info\\COPYING.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\pyinstaller-5.0.1.dist-info\\COPYING.txt',
+   'DATA'),
+  ('dist\\Calculator\\altgraph-0.17.2.dist-info\\LICENSE',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\altgraph-0.17.2.dist-info\\LICENSE',
+   'DATA'),
+  ('dist\\Calculator\\altgraph-0.17.2.dist-info\\METADATA',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\altgraph-0.17.2.dist-info\\METADATA',
+   'DATA'),
+  ('dist\\Calculator\\altgraph-0.17.2.dist-info\\WHEEL',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\altgraph-0.17.2.dist-info\\WHEEL',
+   'DATA'),
+  ('dist\\Calculator\\altgraph-0.17.2.dist-info\\top_level.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\altgraph-0.17.2.dist-info\\top_level.txt',
+   'DATA'),
+  ('dist\\Calculator\\altgraph-0.17.2.dist-info\\RECORD',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\altgraph-0.17.2.dist-info\\RECORD',
+   'DATA'),
+  ('dist\\Calculator\\altgraph-0.17.2.dist-info\\zip-safe',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\altgraph-0.17.2.dist-info\\zip-safe',
+   'DATA'),
+  ('dist\\Calculator\\altgraph-0.17.2.dist-info\\INSTALLER',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\altgraph-0.17.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('dist\\Calculator\\certifi\\cacert.pem',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\certifi\\cacert.pem',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\showborder.py',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\showborder.py',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\__init__.py',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\__init__.py',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\monitor.py',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\monitor.py',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\_webdebugger.py',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\_webdebugger.py',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\cursor.py',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\cursor.py',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\screen.py',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\screen.py',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\touchring.py',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\touchring.py',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\joycursor.py',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\joycursor.py',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\keybinding.py',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\keybinding.py',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\console.py',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\console.py',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\webdebugger.py',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\webdebugger.py',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\recorder.py',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\recorder.py',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\inspector.py',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\inspector.py',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\__pycache__\\__init__.cpython-310.pyc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\__pycache__\\__init__.cpython-310.pyc',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\__pycache__\\cursor.cpython-310.pyc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\__pycache__\\cursor.cpython-310.pyc',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\__pycache__\\keybinding.cpython-310.pyc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\__pycache__\\keybinding.cpython-310.pyc',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\__pycache__\\touchring.cpython-310.pyc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\__pycache__\\touchring.cpython-310.pyc',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-310.pyc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-310.pyc',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-310.pyc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-310.pyc',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\__pycache__\\console.cpython-310.pyc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\__pycache__\\console.cpython-310.pyc',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\__pycache__\\screen.cpython-310.pyc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\__pycache__\\screen.cpython-310.pyc',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\__pycache__\\showborder.cpython-310.pyc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\__pycache__\\showborder.cpython-310.pyc',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\__pycache__\\joycursor.cpython-310.pyc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\__pycache__\\joycursor.cpython-310.pyc',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\__pycache__\\inspector.cpython-310.pyc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\__pycache__\\inspector.cpython-310.pyc',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\__pycache__\\recorder.cpython-310.pyc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\__pycache__\\recorder.cpython-310.pyc',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\modules\\__pycache__\\monitor.cpython-310.pyc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\modules\\__pycache__\\monitor.cpython-310.pyc',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\settings_kivy.json',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\settings_kivy.json',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\style.kv',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\style.kv',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\keyboards\\en_US.json',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\keyboards\\en_US.json',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\keyboards\\qwerty.json',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\keyboards\\qwerty.json',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\keyboards\\qwertz.json',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\keyboards\\qwertz.json',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\keyboards\\azerty.json',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\keyboards\\azerty.json',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\keyboards\\de.json',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\keyboards\\de.json',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\keyboards\\de_CH.json',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\keyboards\\de_CH.json',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\glsl\\header.vs',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\glsl\\header.vs',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\glsl\\default.fs',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\glsl\\default.fs',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\glsl\\default.vs',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\glsl\\default.vs',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\glsl\\header.fs',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\glsl\\header.fs',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\glsl\\default.png',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\glsl\\default.png',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\images\\cursor.png',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\images\\cursor.png',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\images\\testpattern.png',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\images\\testpattern.png',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\images\\image-loading.zip',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\images\\image-loading.zip',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\images\\defaultshape.png',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\images\\defaultshape.png',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\images\\background.jpg',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\images\\background.jpg',
+   'DATA'),
+  ('dist\\Calculator\\kivy_install\\data\\images\\image-loading.gif',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy_install\\data\\images\\image-loading.gif',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\README.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\README.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\html4css1\\html4css1.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\html4css1\\html4css1.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\html4css1\\template.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\html4css1\\template.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\odf_odt\\styles.odt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\odf_odt\\styles.odt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\pep_html\\pep.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\pep_html\\pep.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\pep_html\\template.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\pep_html\\template.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\latex2e\\default.tex',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\latex2e\\default.tex',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\latex2e\\docutils.sty',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\latex2e\\docutils.sty',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\latex2e\\titlepage.tex',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\latex2e\\titlepage.tex',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\latex2e\\titlingpage.tex',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\latex2e\\titlingpage.tex',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\latex2e\\xelatex.tex',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\latex2e\\xelatex.tex',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\html5_polyglot\\template.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\html5_polyglot\\template.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\html5_polyglot\\responsive.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\html5_polyglot\\responsive.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\html5_polyglot\\tuftig.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\html5_polyglot\\tuftig.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\html5_polyglot\\plain.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\html5_polyglot\\plain.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\html5_polyglot\\math.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\html5_polyglot\\math.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'DATA'),
+  ('dist\\Calculator\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'DATA'),
+  ('dist\\Calculator\\PIL\\_webp.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\PIL\\_webp.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\PIL\\_imagingtk.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\PIL\\_imagingtk.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\PIL\\_imaging.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\PIL\\_imaging.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\PIL\\_imagingft.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\PIL\\_imagingft.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\_event.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\_event.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\_metrics.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\_metrics.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\weakproxy.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\weakproxy.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\properties.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\properties.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\_clock.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\_clock.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\lib\\gstplayer\\_gstplayer.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\lib\\gstplayer\\_gstplayer.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\texture.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\texture.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\buffer.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\buffer.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\shader.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\shader.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\vertex_instructions.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\vertex_instructions.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\fbo.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\fbo.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\svg.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\svg.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\compiler.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\compiler.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\context_instructions.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\context_instructions.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\vbo.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\vbo.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\tesselator.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\tesselator.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\instructions.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\instructions.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\scissor_instructions.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\scissor_instructions.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\opengl_utils.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\opengl_utils.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\stencil_instructions.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\stencil_instructions.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\vertex.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\vertex.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\gl_instructions.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\gl_instructions.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\opengl.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\opengl.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\context.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\context.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\cgl.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\cgl.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\transformation.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\transformation.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\cgl_backend\\cgl_glew.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\cgl_backend\\cgl_glew.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\cgl_backend\\cgl_mock.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\cgl_backend\\cgl_mock.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\cgl_backend\\cgl_gl.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\cgl_backend\\cgl_gl.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\graphics\\cgl_backend\\cgl_debug.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\graphics\\cgl_backend\\cgl_debug.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\core\\clipboard\\_clipboard_sdl2.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\core\\clipboard\\_clipboard_sdl2.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\core\\window\\_window_sdl2.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\core\\window\\_window_sdl2.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\core\\window\\window_info.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\core\\window\\window_info.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\core\\audio\\audio_sdl2.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\core\\audio\\audio_sdl2.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\core\\text\\text_layout.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\core\\text\\text_layout.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\core\\text\\_text_sdl2.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\core\\text\\_text_sdl2.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\kivy\\core\\image\\_img_sdl2.cp310-win_amd64.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\kivy\\core\\image\\_img_sdl2.cp310-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Calculator\\win32com\\shell\\shell.pyd',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\win32com\\shell\\shell.pyd',
+   'DATA'),
+  ('dist\\Calculator\\dist\\Calculator\\Calculator.exe',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\dist\\Calculator\\Calculator.exe',
+   'DATA'),
+  ('dist\\Calculator\\build\\Calculator\\base_library.zip',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\build\\Calculator\\base_library.zip',
+   'DATA'),
+  ('dist\\Calculator\\build\\Calculator\\Calculator.exe.manifest',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\build\\Calculator\\Calculator.exe.manifest',
+   'DATA'),
+  ('dist\\Calculator\\build\\Calculator\\Tree-00.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\build\\Calculator\\Tree-00.toc',
+   'DATA'),
+  ('dist\\Calculator\\build\\Calculator\\Tree-01.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\build\\Calculator\\Tree-01.toc',
+   'DATA'),
+  ('dist\\Calculator\\build\\Calculator\\Tree-02.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\build\\Calculator\\Tree-02.toc',
+   'DATA'),
+  ('dist\\Calculator\\build\\Calculator\\warn-Calculator.txt',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\build\\Calculator\\warn-Calculator.txt',
+   'DATA'),
+  ('dist\\Calculator\\build\\Calculator\\xref-Calculator.html',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\build\\Calculator\\xref-Calculator.html',
+   'DATA'),
+  ('dist\\Calculator\\build\\Calculator\\Analysis-00.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\build\\Calculator\\Analysis-00.toc',
+   'DATA'),
+  ('dist\\Calculator\\build\\Calculator\\PYZ-00.pyz',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\build\\Calculator\\PYZ-00.pyz',
+   'DATA'),
+  ('dist\\Calculator\\build\\Calculator\\PYZ-00.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\build\\Calculator\\PYZ-00.toc',
+   'DATA'),
+  ('dist\\Calculator\\build\\Calculator\\Calculator.pkg',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\build\\Calculator\\Calculator.pkg',
+   'DATA'),
+  ('dist\\Calculator\\build\\Calculator\\PKG-00.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\build\\Calculator\\PKG-00.toc',
+   'DATA'),
+  ('dist\\Calculator\\build\\Calculator\\Calculator.exe',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\build\\Calculator\\Calculator.exe',
+   'DATA'),
+  ('dist\\Calculator\\build\\Calculator\\EXE-00.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\build\\Calculator\\EXE-00.toc',
+   'DATA'),
+  ('dist\\Calculator\\build\\Calculator\\COLLECT-00.toc',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\Calculator_files\\dist\\Calculator\\build\\Calculator\\COLLECT-00.toc',
+   'DATA')])

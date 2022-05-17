@@ -1,0 +1,9 @@
+('G:\\Meu '
+ 'Drive\\Programação\\Python\\4-Kivy_sebas\\kivy_venv\\share\\glew\\bin',
+ None,
+ [],
+ 'DATA',
+ [('glew32.dll',
+   'G:\\Meu '
+   'Drive\\Programação\\Python\\4-Kivy_sebas\\kivy_venv\\share\\glew\\bin\\glew32.dll',
+   'DATA')])
